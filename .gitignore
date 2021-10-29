@@ -1,3 +1,5 @@
 *.gv
 *.gv.pdf
 *_files/
+*.ods
+Resultados/
